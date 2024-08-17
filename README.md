@@ -1,6 +1,7 @@
 # AppName
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) `v51`
+![Static Badge](https://img.shields.io/badge/ui-gg?style=flat&label=gluestack&labelColor=black&color=white)
 
 ## Get started
 
