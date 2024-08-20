@@ -1,4 +1,4 @@
-import { Box } from "@/components/atoms";
+import Box from "@/components/atoms/Box";
 import { StyleSheet, ViewProps } from "react-native";
 
 type Props = ViewProps & {
