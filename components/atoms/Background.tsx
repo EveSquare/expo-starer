@@ -9,7 +9,7 @@ const Background: React.FC<Props> = ({ children }) => {
   return (
     <ThemeConsumer>
       {({ theme }) => (
-        <View style={{ backgroundColor: theme.colors.background }}>
+        <View style={{ backgroundColor: theme.colors.background, flex: 1 }}>
           {children}
         </View>
       )}
